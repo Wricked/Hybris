@@ -1,0 +1,7 @@
+{
+  "initArgs":{},
+  "initializedOn":"2018-10-31T14:11:54.349Z",
+  "managedList":[{
+      "resourceId":"/schema/analysis/stopwords/zh",
+      "numObservers":"0",
+      "class":"org.apache.solr.rest.schema.analysis.ManagedWordSetResource"}]}
