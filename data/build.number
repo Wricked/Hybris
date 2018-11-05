@@ -1,6 +1,6 @@
 #Ant properties
-#Mon Nov 05 11:18:09 BRST 2018
-build.builddate=20181105 1117
+#Mon Nov 05 12:34:20 BRST 2018
+build.builddate=20181105 1233
 build.releasedate=20170712 0956
 build.vendor=hybris
 build.version=6.4.0.2
