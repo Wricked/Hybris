@@ -41,3 +41,5 @@ FATAL  | wrapper  | 2018/11/05 10:53:34 | The argument '' is not a valid propert
 FATAL  | wrapper  | 2018/11/05 10:53:52 | The argument '' is not a valid property name-value pair.
 FATAL  | wrapper  | 2018/11/05 10:53:52 | The argument '' is not a valid property name-value pair.
 FATAL  | wrapper  | 2018/11/05 12:31:52 | Failed to load configuration: C:\opt\HYBRIS~4\hybris\bin\platform\tomcat\bin\"
+FATAL  | wrapper  | 2018/11/05 14:11:36 | Failed to load configuration: C:\opt\HYBRIS~4\hybris\bin\platform\tomcat\bin\"
+FATAL  | wrapper  | 2018/11/07 13:33:43 | Failed to load configuration: C:\opt\HYBRIS~4\hybris\bin\platform\tomcat\bin\"
