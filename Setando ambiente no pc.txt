@@ -1,0 +1,21 @@
+ Open a command window (cmd.exe) with administrator rights.
+Define the <HYBRIS_HOME_DIR> variable using the setx command.
+
+Point the variable to your expanded Hybris Commerce instance. For example:
+
+setx HYBRIS_HOME_DIR C:\opt\HYBRISCOMM1808P_X-XXXXXXXX /m
+
+Set the <ANT_HOME> environment variable.
+
+setx ANT_HOME %HYBRIS_HOME_DIR%\hybris\bin\platform\apache-ant-1.9.1 /m
+
+ Add the Ant bin directory to your <PATH>.
+
+setx PATH "%PATH%;%ANT_HOME%\bin" /m
+
+You require the following to use Hybris 123:
+
+    Java 8 Software Development Kit
+    Apache Maven
+    Git
+    Chrome web browser
